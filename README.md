@@ -44,7 +44,7 @@ You can also install `git` following these [instructions]() and then run the com
 
 #### Check your python install
 
-On a Mac, open a Terminal window and type `python`. (You can find the Terminal by using the spotlight and searching for "Terminal.") If you see something like this:
+On a Mac, open a Terminal window and type `python3`. (You can find the Terminal by using the spotlight and searching for "Terminal.") If you see something like this:
 
 ```
 Python 3.6.8 (v3.6.8:3c6b436a57, Dec 24 2018, 02:04:31)
@@ -55,7 +55,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 You're in business.
 
-On a Windows machine, if you installed the Microsoft store version, open a command prompt and type `python3.8` or you can find it in the Start menu.
+On a Windows machine, if you installed the Microsoft store version, open a command prompt and type `python3` or you can find it in the Start menu.
 
 
 #### If not installed, install Python
