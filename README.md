@@ -78,7 +78,7 @@ curl https://bootstrap.pypa.io/get-pip.py -o ~/Downloads/get-pip.py
 ```
 Once the file has downloaded and if it is in your Downloads folder, enter this:
 ```
-python ~/Downloads/get-pip.py
+python3 ~/Downloads/get-pip.py
 ```
 
 After install, type `pip3` into your terminal and press Enter. A help menu should pop up. If not, make sure it's added to your path, try ```echo $PATH ``` and you should see it added to your PATH.
@@ -123,6 +123,12 @@ Now, type:
 
 ```
 jupyter notebook
+```
+
+If you're using a Mac that defaults to `zsh` in the terminal, type:
+
+```
+python3 -m notebook
 ```
 
 A notebook session should pop up in your browser of choice.
